@@ -1,4 +1,4 @@
-Lisa Tailor
+#Lisa Tailor
 
 Temen ane kemaren ada yang minta bantu buatin yang kayak gini nih vroh, katakanlah ini situs *e-commerce* yang dibangun secara khusus untuk usaha dagang terkait. Dibuatnya pake PHP murni, jadi wajar kalok berantakan. Ngahahaha. Mungkin bisa buat oprek-oprek sedikit bagi yang lagi belajar.
 
@@ -17,14 +17,14 @@ Kalo mau liat demo situsnya bisa kunjungi ini:
 ###Hak Akses
 
 ####Admin 
-    - URL : [http://lisa.hol.es/admin](http://lisa.hol.es/admin) 
-    - username : `admin`
-    - password : `admins`
+    - URL : http://lisa.hol.es/admin 
+    - username : admin
+    - password : admins
   
 ####Member
-    - URL : [http://localhost/lisa-tailor/login-registrasi.php](http://localhost/lisa-tailor/login-registrasi.php) 
-    - username : `novay@about.me`
-    - password : `admins`
+    - URL : http://lisa.hol.es/login-registrasi.php 
+    - username : novay@about.me
+    - password : admins
 
 ###Ini nih fitur-fiturnya:
 
@@ -69,7 +69,7 @@ Silahkan oprek selagi ada yang gratis. Semoga bermanfaat.
 Credit goes to:
 - Indomaret (tempat ane numpang kodingan XD)
 - Windows 8.1 (Trial loh ya)
-- Sumblime Text (UNREGISTERED)
+- Sublime Text (UNREGISTERED)
 - Adobe Photoshop (Ane beli dilapakan pinggir jalan vroh)
 - Twitter Bootstrap
 - Summernote
